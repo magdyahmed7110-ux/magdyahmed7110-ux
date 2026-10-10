@@ -1,11 +1,24 @@
 
+
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Data Analyst" width="60%"/>
+<h1>Hi, I'm Magdy Ahmed 👋</h1>
+
+<h2>📊 Data Analyst | Power BI | SQL | Excel | Python</h2>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Magdy Ahmed - Data Analyst" width="60%"/>
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working on Data Analysis" width="40%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Magdy Working on Data Analysis" width="40%"/>
+
+<br>
+
+<p>
+  Turning Data Into Insights &amp; Business Decisions 📈
+</p>
+
+</div>
 
 <h1>Hi, I'm Magdy Ahmed 👋</h1>
 
