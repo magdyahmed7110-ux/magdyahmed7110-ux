@@ -1,31 +1,30 @@
-```html
+
 <div align="center">
 
-# Hi, I'm Magdy Ahmed 👋
-
-### 📊 Data Analyst | Business Information Systems
-
-Turning raw data into meaningful insights and interactive dashboards.
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello" width="60%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Data Analyst" width="60%"/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/magdy-ahmed-3936a4373">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
-</a>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working on Data Analysis" width="40%"/>
 
-<a href="mailto:magdyahmed7110@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email"/>
-</a>
+<h1>Hi, I'm Magdy Ahmed 👋</h1>
 
-<a href="https://magdyahmed7110.getportify.com/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=googlechrome" alt="Portfolio"/>
-</a>
+<h3>📊 Data Analyst | Power BI | SQL | Excel | Python</h3>
 
-<br><br>
+<p>
+  Turning raw data into meaningful insights and actionable business decisions.
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MagdyAhmed7110&style=flat&color=orange&label=PROFILE+VIEWS)
+<p>
+  <a href="https://magdyahmed7110.getportify.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-FFB000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -33,83 +32,128 @@ Turning raw data into meaningful insights and interactive dashboards.
 
 ## 👨‍💻 About Me
 
-- 📊 I'm a Data Analyst with a background in Business Information Systems.
-- 🔍 Interested in data analysis, business intelligence, and data visualization.
-- 📈 I build analytical dashboards to transform data into useful business insights.
-- 💡 I enjoy discovering trends, analyzing performance, and supporting data-driven decisions.
-- 🌱 Continuously improving my analytical and technical skills.
-- 🌐 English Level: Intermediate.
+- 📊 I'm a Data Analyst interested in transforming data into useful business insights.
+- 📈 I work with data analysis, visualization, reporting, and dashboard development.
+- 🛠️ My toolkit includes Excel, SQL, Power BI, Python, and Tableau.
+- 🔍 I enjoy exploring datasets, identifying trends, and answering business questions using data.
+- 📚 I'm continuously improving my analytical and technical skills.
+- 🎯 My goal is to help businesses make better data-driven decisions.
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ Tools & Technologies
 
-### 📊 Data Analysis
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### 📊 Data Analysis & Business Intelligence
 
-### 📈 Business Intelligence & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat&logo=microsoftpowerpoint&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/DAX-0078D4?style=flat&logo=microsoftpowerpoint&logoColor=white" alt="DAX"/>
+  <img src="https://img.shields.io/badge/Power_Query-5E5E5E?style=flat&logo=powerbi&logoColor=white" alt="Power Query"/>
+</p>
 
----
+### 🐍 Programming & Data Processing
 
-## 📂 My Projects
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
-### 📣 Marketing Analytics
-Analyzing marketing performance and presenting business insights through interactive dashboards.
+### 🔧 Tools & Workflow
 
-### 💰 Sales Analytics
-Exploring sales performance, business metrics, and trends to support better decisions.
-
-### 👥 HR Analytics
-Analyzing HR data and workforce-related metrics through reports and dashboards.
-
-### 🏭 Factory Analytics
-Exploring factory and operational data to help understand performance.
-
-### 📊 Power BI Dashboards
-Creating interactive dashboards that turn complex datasets into clear visual insights.
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 ---
 
-## 🎓 Courses & Training
+## 📂 Featured Projects
 
-- ITI
-- Creativa
-- DEPI
+### 📈 Marketing Analytics Dashboard
+
+- **Tools:** Power BI, Excel, DAX
+- **Focus:** Marketing performance analysis and KPI monitoring.
+- **Goal:** Analyze marketing results and identify opportunities to improve business performance.
+
+🔗 [Explore My Portfolio](https://magdyahmed7110.getportify.com/)
+
+---
+
+### 📚 Online Learning Analytics
+
+- **Tools:** Power BI, SQL, Excel, Python
+- **Focus:** Student enrolments, revenue, course performance, and completion rates.
+- **Goal:** Understand learning trends and compare performance across courses and regions.
+
+🔗 [View My Portfolio](https://magdyahmed7110.getportify.com/)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🌱 Currently Growing
+
+- 📊 Developing data visualization and dashboard skills.
+- 🧮 Practicing SQL queries and DAX calculations.
+- 🐍 Improving Python skills for data analysis.
+- 💡 Learning to turn analytical findings into actionable recommendations.
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/magdy-ahmed-3936a4373">
-LinkedIn Profile
-</a>
-<br><br>
+<div align="center">
+
 <a href="https://magdyahmed7110.getportify.com/">
-My Portfolio
+  <img src="https://img.shields.io/badge/Portfolio-FFB000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-<br><br>
-<a href="mailto:magdyahmed7110@gmail.com">
-Email Me
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<br><br>
-<a href="https://www.facebook.com/share/1F7CjcqrpT/">
-Facebook Profile
+
+<a href="https://www.upwork.com/freelancers/~0188db875f6de78d42">
+  <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
 </a>
-</p>
+
+<a href="https://khamsat.com/user/magdyahmed7110">
+  <img src="https://img.shields.io/badge/Khamsat-00A99D?style=for-the-badge&logoColor=white" alt="Khamsat"/>
+</a>
+
+<a href="https://mostaql.com/u/MagdyAhmed_71">
+  <img src="https://img.shields.io/badge/Mostaql-2D8CFF?style=for-the-badge&logoColor=white" alt="Mostaql"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 📊 Turning Data Into Decisions
+### 💡 Turning Data Into Decisions
 
-**Thanks for visiting my GitHub profile!**
+**Thanks for visiting my profile! Feel free to explore my projects and connect with me.** 🚀
 
 </div>
-```
