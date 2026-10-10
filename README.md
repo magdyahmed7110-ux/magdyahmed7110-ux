@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Data Analyst" width="60%"/>
+<img src="https://github.com/magdyahmed7110-ux/magdyahmed7110-ux/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Data Analyst" width="60%"/>
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Iam_Magdy_Ahmed_rounded.gif?raw=true" alt="Working on Data Analysis" width="40%"/>
+<img src="https://github.com/magdyahmed7110-ux/magdyahmed7110-ux/blob/main/images/Iam_Magdy_Ahmed_rounded.gif?raw=true" alt="Working on Data Analysis" width="40%"/>
 
 <h1>Hi, I'm Magdy Ahmed 👋</h1>
 
