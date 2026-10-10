@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="hello_data_analyst" width="60%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/heocoders_rounded.gif?raw=true" alt="hello_data_analyst" width="60%"/>
 
 <br>
 
