@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working on Data Analysis" width="40%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Iam_Magdy_Ahmed_rounded.gif?raw=true" alt="Working on Data Analysis" width="40%"/>
 
 <h1>Hi, I'm Magdy Ahmed 👋</h1>
 
